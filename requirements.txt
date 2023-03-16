@@ -4,5 +4,4 @@ streamlit
 mysql-connector-python
 pandas
 tensorflow
-face-recognition
-cmake
+insightface
