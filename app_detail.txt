@@ -1,0 +1,7 @@
+database provider link ::-   https://freedb.tech/
+
+database information
+
+1> database_name = freedb_attendence_system
+2> host_name = sql.freedb.tech
+3> port = 3306
