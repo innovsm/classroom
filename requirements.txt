@@ -4,4 +4,4 @@ streamlit
 mysql-connector-python
 pandas
 tensorflow
-deeface
+deepface
